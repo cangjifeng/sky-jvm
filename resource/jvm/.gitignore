@@ -1,0 +1,10 @@
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+bin/
+target/
+.DS_Store
+__MACOSX/
+test-output/
