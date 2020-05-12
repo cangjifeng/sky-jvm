@@ -363,3 +363,7 @@ public int loadBeanDefinitions(EncodedResource encodedResource) throws BeanDefin
 	}
 ```
 
+
+
+参考：
+ 1 https://blog.csdn.net/nuomizhende45/article/details/81158383 
