@@ -3,7 +3,7 @@ package org.jerfan.sky.jvm.gc.listener;
 /**
  * 默认的监听实现
  */
-public class DefaultCompanyListener extends  AbstractCompanyListener implements EnterCompanyListener,LeaveCompanyListener ,CompanyListener {
+public class DefaultCompanyListener extends  AbstractCompanyListener implements EnterCompanyListener,LeaveCompanyListener  {
 
     @Override
     public void enter(EmployeeEvent event) {

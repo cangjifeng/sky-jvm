@@ -31,11 +31,8 @@ public abstract class AbstractCompanyListener  implements EnterCompanyListener,L
     }
 
     @Override
-    public void enter(EmployeeEvent event) {
-    }
+    public abstract void enter(EmployeeEvent event) ;
 
     @Override
-    public void leave(EmployeeEvent event) {
-
-    }
+    public abstract void leave(EmployeeEvent event) ;
 }
